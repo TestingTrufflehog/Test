@@ -9,4 +9,4 @@ API_KEY=11215965312213
 
 print("-----passwords-----")
 
-Value = "AKIAWARWQKZNHMZBLY4I"
+Value = "AKIA"
